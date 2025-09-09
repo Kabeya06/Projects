@@ -12,4 +12,26 @@ Everything that i'd like to do.
 ## Must
 1. Myciti TIme Table
 2. Create Study Buddy Program
+3. Music
+4. Video
+5. Reader
+6. Communicator
+7. Maps
+8. Calclator
+9. Weather
+10. Tools
+11. Camera
+12. Notes/ Recorder
+13. Gallery/ Media Viewer & Editor
+14. Browser
+15. Roster
+16. Tasks/ Agenda/ Calender
+17. Time/ Clock
+18. OS/ui
+19. Money
+20. Cheffer
+21. Feels
+22. My Temple
+23. Keyboard
+24. Closet
 
