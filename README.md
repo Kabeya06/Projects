@@ -3,9 +3,12 @@ Everything that i'd like to do.
 
 ## What Evs
 1. Algorithim or AI to play Ultimate TIcTac Toe
-2. AI to automate solitaire games 
+2. AI to automate solitaire games
+3. Recreate and automate Hexlate game
+4. Create Bot for Feudal Tactics
+5. Create Bot for Flood It
 
 ## Must
 1. Myciti TIme Table
-2. 
+2. Create Study Buddy Program
 
