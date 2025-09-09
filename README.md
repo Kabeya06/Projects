@@ -8,6 +8,7 @@ Everything that i'd like to do.
 4. Create Bot for Feudal Tactics
 5. Create Bot for Flood It
 6. Minesweeper Clone and Bot
+7. MInecraft ++ Modpack
 
 ## Must
 1. Myciti TIme Table
