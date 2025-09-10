@@ -34,6 +34,7 @@ Everything that i'd like to do.
 20. Cheffer
 21. Feels
 22. My Temple
-23. Keyboard
-24. Closet
+23. DESKTOP STICKY NOTE PLUGIN FOR OBSIDIAN
+24. Keyboard
+25. Closet
 
